@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+    box-shadow: 0 2px 5px black;
+    width:600px;
+    min-height:90vh;
+    margin:50px auto;
+    padding:20px;
+  }
+
+.styleH1 {
+    color:blue;
+    cursor:default;
+  }

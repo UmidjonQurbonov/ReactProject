@@ -1,0 +1,39 @@
+.random-planet {
+  display: flex;
+  padding: 1rem;
+}
+
+.random-planet .planet-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin-right: 1rem;
+}
+
+.random-planet .list-group {
+  margin: 1rem 0 0 1rem;
+}
+
+.random-planet .list-group-item {
+  padding: .25rem;
+}
+
+.random-planet .list-group-item .term {
+  margin-right: .5rem;
+}
+
+.toggleRandomPlanet,
+.toggleRandomPlanet:visited,
+.toggleRandomPlanet:hover,
+.toggleRandomPlanet:active{   
+    margin:0px 0px 20px 20px;
+    border-radius: 10px;
+    padding:5px 25px;
+    border:none;
+    outline:none;
+    background:rgb(255, 136, 0);
+    color:white;
+    display:inline-block;
+    text-decoration: none;
+}
+

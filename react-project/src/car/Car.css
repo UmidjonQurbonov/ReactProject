@@ -1,0 +1,9 @@
+.Car{
+    width:400px;
+    height:25%;
+    margin:0 auto;
+    text-align:center;
+    box-shadow:0 2px 4px black;
+    padding:20px;
+    margin-top: 10px;
+}
